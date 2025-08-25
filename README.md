@@ -29,9 +29,8 @@
 1. [Introduction](#-introduction)
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+4. [Todo](#-todo)
+5. [Quick Start](#-quick-start)
 
 ---
 
@@ -52,7 +51,7 @@ In this application, I have build a production‑ready **Trello‑Style App** us
 
 ---
 
-## ⚡️ Key Features
+## ⚡️ Features
 
 - 📋 **Boards & Columns**
   Create multiple boards and define custom columns.
