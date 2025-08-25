@@ -3,13 +3,14 @@
 # Build a Trello Clone App with Next.js, Clerk & Supabase
 
 <div align="center">
+  <h3>Screenshots</h3>
   <div>
-    <img src="/screenshots/homepage.png" />
-    <img src="/screenshots/dashboard.png" />
-    <img src="/screenshots/tasks-board.png" />
-    <img src="/screenshots/tasks-create-dialog.png" />
-    <img src="/screenshots/plans-page.png" />
-    <img src="/screenshots/clerk-settings-billing.png" />
+    <img src="public/screenshots/homepage.png" />
+    <img src="public/screenshots/dashboard.png" />
+    <img src="public/screenshots/tasks-board.png" />
+    <img src="public/screenshots/tasks-create-dialog.png" />
+    <img src="public/screenshots/plans-page.png" />
+    <img src="public/screenshots/clerk-settings-billing.png" />
   </div>
   <br />
   <div>
