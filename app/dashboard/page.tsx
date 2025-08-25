@@ -37,8 +37,6 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
-// https://awaited-pug-49.clerk.accounts.dev
-
 export default function DashboardPage() {
   const { user } = useUser();
   const router = useRouter();
