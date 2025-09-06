@@ -44,7 +44,7 @@ export default function Navbar({
           <div className="flex items-center space-x-2">
             <Trello className="h-6 w-6 sm:h-8 sm:w-8 text-blue-600" />
             <span className="text-xl sm:text-2xl font-bold text-gray-90">
-              Trello Clone
+              <Link href="/">Trello Clone</Link>
             </span>
           </div>
           <div className="flex items-center space-x-2 sm:space-x-4">
